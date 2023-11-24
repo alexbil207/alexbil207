@@ -1,6 +1,6 @@
 # Hi there, I'm Alex Bilinski! 👋
 
-I'm a Senior Frontend Developer based in Tel Aviv, Israel. Currently, I'm working at [esh](#) where I lead frontend development and contribute to building robust and efficient web applications.
+I'm a Senior Frontend Developer based in Haifa, Israel. Currently, I'm working at [esh](#) where I lead frontend development and contribute to building robust and efficient web applications.
 
 
 ## 🔧 Technologies & Tools
