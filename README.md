@@ -54,7 +54,7 @@ I'm a Senior Frontend Developer based in Tel Aviv, Israel. Currently, I'm workin
 ## 🚀 Experience
 
 ### [esh](#) - Senior Frontend Developer
-#### Aug 2023 - Present (4 mos) | Tel Aviv District, Israel (Hybrid)
+#### Aug 2023 - Present | Tel Aviv District, Israel (Hybrid)
 
 - Leading frontend development and contributing to the architecture of web applications.
 - Collaborating with cross-functional teams to translate business requirements into technical solutions.
