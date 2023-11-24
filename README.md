@@ -2,18 +2,50 @@
 
 I'm a Senior Frontend Developer based in Tel Aviv, Israel. Currently, I'm working at [esh](#) where I lead frontend development and contribute to building robust and efficient web applications.
 
+
 ## 🔧 Technologies & Tools
 
-[![](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react&logoColor=white)](link to React.js)
-[![](https://img.shields.io/badge/-Redux.js-333333?style=flat&logo=redux&logoColor=white)](link to Redux.js)
-[![](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=white)](link to Node.js)
-[![](https://img.shields.io/badge/-Web%20Components-333333?style=flat&logo=webcomponents.org&logoColor=white)](link to Web Components)
-[![](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=white)](link to TypeScript)
+![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 
-## 🌱 I'm Currently Learning
+![Nestjs](https://img.shields.io/badge/Backend-Nestjs-informational?style=flat&logo=nestjs&logoColor=white&color=2bbc8a)
+![NodeJS](https://img.shields.io/badge/Backend-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![REST API](https://img.shields.io/badge/Backend-REST_API-informational?style=flat&logo=rest-api&logoColor=white&color=2bbc8a)
+![GraphQL](https://img.shields.io/badge/Backend-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
+![WebSocket’s](https://img.shields.io/badge/Backend-WebSocket's-informational?style=flat&logo=websocket&logoColor=white&color=2bbc8a)
 
-[![](https://img.shields.io/badge/-GraphQL-333333)](link to GraphQL)
-[![](https://img.shields.io/badge/-Azure%20DevOps-333333)](link to Azure DevOps)
+![JavaScript](https://img.shields.io/badge/Frontend-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![HTML](https://img.shields.io/badge/Frontend-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![React](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![Sass](https://img.shields.io/badge/Frontend-Sass-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
+![Style CMPS](https://img.shields.io/badge/Frontend-Style_CMPS-informational?style=flat&logo=style-components&logoColor=white&color=2bbc8a)
+![Redux](https://img.shields.io/badge/Frontend-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
+![Mobx](https://img.shields.io/badge/Frontend-Mobx-informational?style=flat&logo=mobx&logoColor=white&color=2bbc8a)
+![RXJS](https://img.shields.io/badge/Frontend-RXJS-informational?style=flat&logo=reactivex&logoColor=white&color=2bbc8a)
+![Web components](https://img.shields.io/badge/Frontend-Web_components-informational?style=flat&logo=webcomponents&logoColor=white&color=2bbc8a)
+![TypeScript](https://img.shields.io/badge/Frontend-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![Webpack](https://img.shields.io/badge/Frontend-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=2bbc8a)
+![Vite](https://img.shields.io/badge/Frontend-Vite-informational?style=flat&logo=vite&logoColor=white&color=2bbc8a)
+
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
+![Firebase](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
+![Azure](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=2bbc8a)
+
+![GitHub](https://img.shields.io/badge/Version_Control-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![GitLab](https://img.shields.io/badge/Version_Control-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)
+
+![Agile Development](https://img.shields.io/badge/Methodology-Agile-informational?style=flat&logo=agile&logoColor=white&color=2bbc8a)
+
+![Problem Solving](https://img.shields.io/badge/Skill-Problem_Solving-informational?style=flat&logo=stack-overflow&logoColor=white&color=2bbc8a)
+![Troubleshooting](https://img.shields.io/badge/Skill-Troubleshooting-informational?style=flat&logo=bugatti&logoColor=white&color=2bbc8a)
+
+![Communication](https://img.shields.io/badge/Skill-Communication-informational?style=flat&logo=slack&logoColor=white&color=2bbc8a)
+![Collaboration](https://img.shields.io/badge/Skill-Collaboration-informational?style=flat&logo=slack&logoColor=white&color=2bbc8a)
+
+
 
 ## 📈 GitHub Stats
 
