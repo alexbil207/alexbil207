@@ -97,7 +97,4 @@ I'm a Senior Frontend Developer based in Tel Aviv, Israel. Currently, I'm workin
 ## 🌐 Connect with Me
 
 [![](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-bilinski/)
-[![](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](link to Twitter)
-[![](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=google-chrome&logoColor=white)](link to your website)
 
-⭐️ From [Alex Bilinski](https://github.com/alexbil207)
