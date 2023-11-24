@@ -7,6 +7,7 @@ I'm a Senior Frontend Developer based in Haifa, Israel. Currently, I'm working a
 
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![macOS](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
 
 ![Nestjs](https://img.shields.io/badge/Backend-Nestjs-informational?style=flat&logo=nestjs&logoColor=white&color=2bbc8a)
 ![NodeJS](https://img.shields.io/badge/Backend-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
