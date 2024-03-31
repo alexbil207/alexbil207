@@ -55,7 +55,7 @@ I'm a Senior Frontend Developer based in Haifa, Israel. Currently, I'm working a
 ## 🚀 Experience
 
 ### [esh](#) - Senior Frontend Developer
-#### Aug 2023 - Present | Tel Aviv District, Israel (Hybrid)
+#### Jan 2024 - Present | Tel Aviv District, Israel (Hybrid)
 
 - Leading frontend development and contributing to the architecture of web applications.
 - Collaborating with cross-functional teams to translate business requirements into technical solutions.
@@ -63,7 +63,7 @@ I'm a Senior Frontend Developer based in Haifa, Israel. Currently, I'm working a
 - Working under the guidance of the Chief Architect to design and architect software solutions.
 
 ### [CodeValue](#) - Full Stack Developer && Frontend Infrastructure Team Lead
-#### Apr 2022 - Aug 2023 (1 yr 5 mos) | Yokneam, Northern, Israel (Hybrid)
+#### Apr 2022 - Jan 2024 (1 yr 10 mos) | Yokneam, Northern, Israel (Hybrid)
 
 - Led the frontend infrastructure team, responsible for architecting and implementing agnostic-to-framework solutions using html5 web components technology.
 - Implemented Microfrontends using Web components, React, Redux, Scss, Webpack, Vite, TypeScript.
