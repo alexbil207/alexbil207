@@ -62,7 +62,7 @@ I'm a Senior Frontend Developer based in Haifa, Israel. Currently, I'm working a
 - Implementing server-side logic and building APIs using Nestjs for efficient data flow.
 - Working under the guidance of the Chief Architect to design and architect software solutions.
 
-### [CodeValue](#) - Full Stack Developer && Frontend Infrastructure Team Lead
+### [CodeValue](#) - Full Stack Tech Lead
 #### Apr 2022 - Jan 2024 (1 yr 10 mos) | Yokneam, Northern, Israel (Hybrid)
 
 - Led the frontend infrastructure team, responsible for architecting and implementing agnostic-to-framework solutions using html5 web components technology.
